@@ -1,2 +1,3 @@
-# game-design-documents
-project 43
+# Game Design Document
+
+Project 43
